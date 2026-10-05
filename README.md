@@ -1,6 +1,6 @@
-# Calculadora en Python
+Calculadora en Python
 
-## Descripción
+Descripción
 
 Esta es una calculadora desarrollada en Python que permite realizar operaciones matemáticas básicas mediante un menú interactivo.
 
@@ -14,28 +14,26 @@ El usuario puede seleccionar entre cuatro operaciones:
 También incluye validación de datos para evitar errores cuando el usuario introduce valores que no son números y controla 
 el caso de división entre cero.
 
-## Problema que resuelve
+Problema que resuelve
 
 El proyecto permite realizar operaciones matemáticas básicas de manera sencilla mediante un programa interactivo.
 
 Además de cumplir la función de calculadora, el proyecto fue desarrollado como una práctica para aprender y aplicar 
 conceptos fundamentales de programación en Python.
 
-## Tecnologías utilizadas
+Tecnologías utilizadas
 
 * **Python 3**
 
-## Funcionamiento
+Funcionamiento
 
 El programa presenta un menú con cinco opciones:
 
-```text
 1. Sumar
 2. Restar
 3. Multiplicar
 4. Dividir
 5. Salir
-```
 
 El usuario selecciona una operación e introduce dos números.
 
@@ -48,38 +46,38 @@ También controla dos situaciones:
 
 El programa continúa funcionando hasta que el usuario selecciona la opción **5. Salir**.
 
-## Cómo ejecutar el proyecto
+Cómo ejecutar el proyecto
 
-### Opción 1: Ejecutar con Python
+Opción 1: Ejecutar con Python
 
 1. Tener Python 3 instalado.
 2. Descargar o clonar este repositorio.
 3. Abrir una terminal en la carpeta del proyecto.
 4. Ejecutar.
 
-### Opción 2: Ejecutar el archivo `.exe`
+Opción 2: Ejecutar el archivo .exe
 
 También se incluye una versión ejecutable del programa para Windows.
 
-El archivo `.exe` permite utilizar la calculadora sin tener que ejecutar directamente el código Python.
+El archivo .exe permite utilizar la calculadora sin tener que ejecutar directamente el código Python.
 
-## Lo que aprendí
+Lo que aprendí
 
 Con este proyecto practiqué varios conceptos fundamentales de Python:
 
 * Creación y utilización de funciones.
 * Parámetros y valores de retorno.
 * Condiciones.
-* Ciclos `while`.
+* Ciclos while.
 * Entrada de datos del usuario.
 * Conversión de datos.
-* Manejo de errores mediante `try / except`.
+* Manejo de errores mediante try / except.
 * Validación de información.
 * Organización de un programa mediante diferentes funciones.
 
 Este proyecto forma parte de mi proceso de aprendizaje y de la construcción de mi portafolio personal en tecnología.
 
-## Autor
+Autor
 
 **Ricaurte Ríos**
 
